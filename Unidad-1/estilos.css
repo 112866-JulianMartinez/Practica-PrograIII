@@ -1,0 +1,56 @@
+th,td{
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid gray ;
+    border-bottom: 2px solid gray;
+}
+table{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 3px solid gray;
+    border-left: 3px solid gray;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+th,td{
+padding-right: 10px;
+padding-top: 3px;
+padding-bottom: 3px;
+text-align: left;
+font-size: 30px;
+}
+.textTeal{
+    color:teal
+}
+.textRed{
+    color: red;
+}
+.textBlue{
+    color: blue;
+}
+.textOrange{
+    color: orange;
+}
+.textPurple{
+    color: purple;
+}
+.textOlive{
+    color:olive
+}
+.textFuchsia{
+    color:fuchsia
+}
+.textGreen{
+    color: green
+}
+.tr-Red{
+background-color: red;
+}
+.tr-Green{
+    background-color: green;
+}
+.tr-Blue{
+    background-color: blue;
+}
